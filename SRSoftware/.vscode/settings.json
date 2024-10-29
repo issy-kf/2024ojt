@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.project.referencedLibraries":[
+        "E:/SRSoftware/backend/demo/lib/jakarta.websocket-api-2.0.0.jar"
+    ],
+    "json.schemas": []
+    
+}
